@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PositionBackgroundView">
+        <attr name="show" format="boolean" />
+        <attr name="minX" format="integer" />
+        <attr name="maxX" format="integer" />
+        <attr name="minY" format="integer" />
+        <attr name="maxY" format="integer" />
+    </declare-styleable>
+</resources>
